@@ -1,3 +1,6 @@
 [submodule "module1/mf1"]
 	path = module1/mf1
 	url = git@github.com:ravinderaiqmen/mf1.git
+[submodule "module1/mf2"]
+	path = module1/mf2
+	url = git@github.com:ravinderaiqmen/mf2.git
