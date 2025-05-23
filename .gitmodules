@@ -1,0 +1,3 @@
+[submodule "module1/mf1"]
+	path = module1/mf1
+	url = git@github.com:ravinderaiqmen/mf1.git
